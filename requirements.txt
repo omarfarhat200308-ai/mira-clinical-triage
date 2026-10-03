@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+anthropic
+twilio
+python-dotenv
+python-multipart
+band-sdk[anthropic]
