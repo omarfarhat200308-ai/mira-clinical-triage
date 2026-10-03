@@ -6,7 +6,7 @@
 
 Multi-agent decision support for ASHA workers and PHC staff, delivered over WhatsApp.
 
-![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-Sonnet_4.5-D97757)
 ![Band](https://img.shields.io/badge/Band-agent_coordination-5B5BD6)
