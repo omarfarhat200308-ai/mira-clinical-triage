@@ -1,4 +1,6 @@
-# TABIB — AI Clinical Triage for Rural India
+# MIRA — AI Clinical Triage for Rural India
+
+> **Origin:** This project was originally built as **TABIB** at a hackathon in June 2026, and was later renamed and rebuilt into MIRA's 5-node pipeline.
 
 > Multi-agent diagnostic coordination system for ASHA workers 
 > and rural health volunteers. Built on Band's agent coordination 
