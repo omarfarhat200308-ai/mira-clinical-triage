@@ -19,7 +19,7 @@ TABIB was built at the Band of Agents Hackathon (lablab.ai, June 2026) as a thre
 |---|---|
 | Research release (paper + code and evaluation archive) | https://doi.org/10.5281/zenodo.23136983 |
 | All versions (concept DOI) | https://doi.org/10.5281/zenodo.23067418 |
-| MIRA code on GitHub | *(add the link to the `mira-research` repository once created)* |
+| MIRA code on GitHub | https://github.com/omarfarhat200308-ai/mira-research |
 
 ## Relationship between the versions
 TABIB (this repo, June 2026) → MIRA research prototype (July–September 2026) → MIRA v1.3-corrected interim report (Zenodo, 2026-10-04, supersedes v1.0–v1.2).
